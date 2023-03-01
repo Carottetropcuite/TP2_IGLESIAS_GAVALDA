@@ -1,3 +1,4 @@
+
 package tp_git;
 
 import java.util.ArrayList;
@@ -35,11 +36,15 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// Cette fonction prends un objet de classe requete en parametre et 
+		// analyse la maladie du patient
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// Cette fonction compare les requetes analysees pour savoir s'il y a
+		// un cluster
 		return "Cluster trouvé";
 	}
 
