@@ -1,2 +1,3 @@
 IGLESIAS Lucie
 GAVALDA Emma
+ajout d'explication dans ce fichier
